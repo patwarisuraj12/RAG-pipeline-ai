@@ -1,0 +1,7 @@
+youtube-transcript-api
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-ollama
+faiss-cpu
+requests

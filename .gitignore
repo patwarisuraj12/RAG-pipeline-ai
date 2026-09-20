@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+venv312/
+
+# IDE
+.idea/
+.vscode/
+
+# Generated RAG data
+data/
+
+# Environment secrets
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
