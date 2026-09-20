@@ -2,6 +2,15 @@
 
 ## 1. Overview
 
+R → Retrieval
+    FAISS finds relevant chunks
+
+A → Augmented
+    Retrieved chunks are added to the prompt
+
+G → Generation
+    Llama generates the answer
+
 The YouTube RAG Assistant is a local Retrieval-Augmented Generation application.
 
 Its purpose is to answer user questions based only on the transcript of a selected YouTube video.

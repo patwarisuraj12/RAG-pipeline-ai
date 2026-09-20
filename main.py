@@ -73,7 +73,7 @@ def main():
         LLM_MODEL
     )
 
-    question = "What are the main points to note in this video?"
+    question = "What are the engine options available for this car?"
 
     answer = answer_question(
         question,
